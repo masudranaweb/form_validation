@@ -1,0 +1,46 @@
+.form_validation{
+    background-image: url(../images/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120vh;
+}
+.form_validation h1{
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    mix-blend-mode: screen;
+    color:rgb(7, 7, 7);
+    font-weight: 900;
+    border-radius: 10px;
+    padding:0 10px;
+}
+.form_design label{
+    color:#fff;
+    font-size: 20px;
+}
+.form_design input{
+    background: transparent !important;
+    color:#fff;
+}
+.form_design input:focus{
+    background: transparent !important;
+    color:#fff;
+}
+.form_design select{
+   width:100%;
+   background:transparent;
+   color:#fff;
+   text-align: center;
+   border-radius: 5px;
+   border:1px solid #fff;
+   padding:5px 0;
+}
+.form_design select:focus{
+    background:transparent !important ;
+    color:#000;
+ }
+
+ .form_design .form-check input:focus {
+    background: #295fff !important;
+    color: #ffffff;
+}
